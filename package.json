@@ -1,0 +1,14 @@
+{
+  "name": "stremio-oscar-movies",
+  "version": "1.0.0",
+  "description": "Shows latest cenditates movies of Oscar Awards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onur DEGERLI",
+  "license": "ISC",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.0.3"
+  }
+}
