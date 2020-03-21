@@ -10,7 +10,7 @@ The content will be updated after the each Oscar night.
 * Create an ```.env``` file and set your key ```API_KEY=your-api-key```
 * ```npm install```
 * Run ```node fetch.js``` file and fetch the latest data.
-* Run ```npm start -- --launch``` to see your addon on Stremio.
+* Run ```npm start -- --launch``` to see your addon on Stremio stage environment.
 
 For more information about Stremio addons development, please visit the pages below.
 * https://github.com/Stremio/stremio-addon-sdk
