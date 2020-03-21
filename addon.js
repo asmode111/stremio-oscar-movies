@@ -46,10 +46,9 @@ builder.defineStreamHandler(function (args) {
     }
 })
 
-const META_HUB_URL = "https://images.metahub.space"
+
 const generateMetaPreview = function (value, key) {
     const imdbId = key.split(":")[0]
-
     return {
         id: imdbId,
         type: value.Type,
@@ -62,7 +61,7 @@ const generateMetaPreview = function (value, key) {
         genres: value.Genre.split(','),
         releaseInfo: value.Released,
         imdbRating: value.imdbRating,
-        poster: META_HUB_URL + "/poster/medium/" + imdbId + "/img"
+        poster: value.Poster
     }
 }
 

@@ -1,80 +1,4 @@
 {
-  "tt1950186": {
-    "Title": "Ford v Ferrari",
-    "Year": "2019",
-    "Rated": "PG-13",
-    "Released": "15 Nov 2019",
-    "Runtime": "152 min",
-    "Genre": "Action, Biography, Drama, Sport",
-    "Director": "James Mangold",
-    "Writer": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
-    "Actors": "Matt Damon, Christian Bale, Jon Bernthal, Caitriona Balfe",
-    "Plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
-    "Language": "English, Italian, French, Japanese",
-    "Country": "USA, France",
-    "Awards": "Won 2 Oscars. Another 21 wins & 69 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.2/10"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "81/100"
-      }
-    ],
-    "Metascore": "81",
-    "imdbRating": "8.2",
-    "imdbVotes": "149,270",
-    "imdbID": "tt1950186",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "20th Century Fox",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  "tt1302006": {
-    "Title": "The Irishman",
-    "Year": "2019",
-    "Rated": "R",
-    "Released": "27 Nov 2019",
-    "Runtime": "209 min",
-    "Genre": "Biography, Crime, Drama",
-    "Director": "Martin Scorsese",
-    "Writer": "Steven Zaillian (screenplay), Charles Brandt (book)",
-    "Actors": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",
-    "Plot": "A mob hitman recalls his friend Jimmy Hoffa.",
-    "Language": "English, Italian, Latin, Spanish, German",
-    "Country": "USA",
-    "Awards": "Nominated for 10 Oscars. Another 62 wins & 298 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "96%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "94/100"
-      }
-    ],
-    "Metascore": "94",
-    "imdbRating": "8.0",
-    "imdbVotes": "247,813",
-    "imdbID": "tt1302006",
-    "Type": "movie",
-    "DVD": "27 Nov 2019",
-    "BoxOffice": "N/A",
-    "Production": "Netflix",
-    "Website": "N/A",
-    "Response": "True"
-  },
   "tt2584384": {
     "Title": "Jojo Rabbit",
     "Year": "2019",
@@ -112,46 +36,6 @@
     "DVD": "N/A",
     "BoxOffice": "N/A",
     "Production": "Fox Searchlight Pictures",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  "tt7286456": {
-    "Title": "Joker",
-    "Year": "2019",
-    "Rated": "R",
-    "Released": "04 Oct 2019",
-    "Runtime": "122 min",
-    "Genre": "Crime, Drama, Thriller",
-    "Director": "Todd Phillips",
-    "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)",
-    "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",
-    "Plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
-    "Language": "English",
-    "Country": "USA, Canada",
-    "Awards": "Won 2 Oscars. Another 84 wins & 190 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.6/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "68%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "59/100"
-      }
-    ],
-    "Metascore": "59",
-    "imdbRating": "8.6",
-    "imdbVotes": "709,240",
-    "imdbID": "tt7286456",
-    "Type": "movie",
-    "DVD": "17 Dec 2019",
-    "BoxOffice": "N/A",
-    "Production": "Warner Bros. Pictures",
     "Website": "N/A",
     "Response": "True"
   },
@@ -195,21 +79,21 @@
     "Website": "N/A",
     "Response": "True"
   },
-  "tt7653254": {
-    "Title": "Marriage Story",
+  "tt1302006": {
+    "Title": "The Irishman",
     "Year": "2019",
     "Rated": "R",
-    "Released": "06 Dec 2019",
-    "Runtime": "137 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Noah Baumbach",
-    "Writer": "Noah Baumbach",
-    "Actors": "Adam Driver, Scarlett Johansson, Alan Alda, Azhy Robertson",
-    "Plot": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
-    "Language": "English, Spanish",
-    "Country": "UK, USA",
-    "Awards": "Won 1 Oscar. Another 120 wins & 246 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Released": "27 Nov 2019",
+    "Runtime": "209 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Martin Scorsese",
+    "Writer": "Steven Zaillian (screenplay), Charles Brandt (book)",
+    "Actors": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",
+    "Plot": "A mob hitman recalls his friend Jimmy Hoffa.",
+    "Language": "English, Italian, Latin, Spanish, German",
+    "Country": "USA",
+    "Awards": "Nominated for 10 Oscars. Another 62 wins & 298 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
@@ -217,61 +101,133 @@
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "95%"
+        "Value": "96%"
       },
       {
         "Source": "Metacritic",
-        "Value": "93/100"
+        "Value": "94/100"
       }
     ],
-    "Metascore": "93",
+    "Metascore": "94",
     "imdbRating": "8.0",
-    "imdbVotes": "189,430",
-    "imdbID": "tt7653254",
+    "imdbVotes": "247,813",
+    "imdbID": "tt1302006",
     "Type": "movie",
-    "DVD": "06 Dec 2019",
+    "DVD": "27 Nov 2019",
     "BoxOffice": "N/A",
     "Production": "Netflix",
     "Website": "N/A",
     "Response": "True"
   },
-  "tt8579674": {
-    "Title": "1917",
+  "tt6751668": {
+    "Title": "Parasite",
     "Year": "2019",
     "Rated": "R",
-    "Released": "10 Jan 2020",
-    "Runtime": "119 min",
-    "Genre": "Drama, War",
-    "Director": "Sam Mendes",
-    "Writer": "Sam Mendes, Krysty Wilson-Cairns",
-    "Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth",
-    "Plot": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
-    "Language": "English, French, German",
-    "Country": "USA, UK, India, Spain, Canada",
-    "Awards": "Won 3 Oscars. Another 108 wins & 158 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+    "Released": "08 Nov 2019",
+    "Runtime": "132 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Director": "Bong Joon Ho",
+    "Writer": "Bong Joon Ho (story), Bong Joon Ho (screenplay), Jin Won Han (screenplay)",
+    "Actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi",
+    "Plot": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+    "Language": "Korean, English",
+    "Country": "South Korea",
+    "Awards": "Won 4 Oscars. Another 241 wins & 231 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.4/10"
+        "Value": "8.6/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "89%"
+        "Value": "99%"
       },
       {
         "Source": "Metacritic",
-        "Value": "78/100"
+        "Value": "96/100"
       }
     ],
-    "Metascore": "78",
-    "imdbRating": "8.4",
-    "imdbVotes": "215,814",
-    "imdbID": "tt8579674",
+    "Metascore": "96",
+    "imdbRating": "8.6",
+    "imdbVotes": "304,098",
+    "imdbID": "tt6751668",
     "Type": "movie",
-    "DVD": "10 Mar 2020",
+    "DVD": "14 Jan 2020",
     "BoxOffice": "N/A",
-    "Production": "Universal Pictures",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt3224458": {
+    "Title": "A Beautiful Day in the Neighborhood",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "22 Nov 2019",
+    "Runtime": "109 min",
+    "Genre": "Biography, Drama",
+    "Director": "Marielle Heller",
+    "Writer": "Micah Fitzerman-Blue, Noah Harpster, Tom Junod (inspired by: the article \"Can You Say... Hero?\" by [the November 1998 Esquire Magazine article])",
+    "Actors": "Tom Hanks, Matthew Rhys, Chris Cooper, Susan Kelechi Watson",
+    "Plot": "Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel.",
+    "Language": "English",
+    "Country": "China, USA",
+    "Awards": "Nominated for 1 Oscar. Another 4 wins & 56 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWE3ZDYwNmItOWM5ZS00Y2Q4LTlhNmYtODlhY2QxYzA1MDlhXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.3",
+    "imdbVotes": "33,074",
+    "imdbID": "tt3224458",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8291806": {
+    "Title": "Pain and Glory",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "04 Oct 2019",
+    "Runtime": "113 min",
+    "Genre": "Drama",
+    "Director": "Pedro Almodóvar",
+    "Writer": "Pedro Almodóvar",
+    "Actors": "Antonio Banderas, Asier Etxeandia, Leonardo Sbaraglia, Nora Navas",
+    "Plot": "A film director reflects on the choices he's made as past and present come crashing down around him.",
+    "Language": "Spanish",
+    "Country": "Spain",
+    "Awards": "Nominated for 2 Oscars. Another 48 wins & 138 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWU4MTM2YTgtYTRlZC00ZmRhLTlkYTMtZDkyYzNjZDU1NmI0XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Metascore": "87",
+    "imdbRating": "7.6",
+    "imdbVotes": "33,447",
+    "imdbID": "tt8291806",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
   },
@@ -315,21 +271,613 @@
     "Website": "N/A",
     "Response": "True"
   },
-  "tt6751668": {
-    "Title": "Parasite",
+  "tt1950186": {
+    "Title": "Ford v Ferrari",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "15 Nov 2019",
+    "Runtime": "152 min",
+    "Genre": "Action, Biography, Drama, Sport",
+    "Director": "James Mangold",
+    "Writer": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
+    "Actors": "Matt Damon, Christian Bale, Jon Bernthal, Caitriona Balfe",
+    "Plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "Language": "English, Italian, French, Japanese",
+    "Country": "USA, France",
+    "Awards": "Won 2 Oscars. Another 21 wins & 69 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "8.2",
+    "imdbVotes": "149,270",
+    "imdbID": "tt1950186",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8579674": {
+    "Title": "1917",
     "Year": "2019",
     "Rated": "R",
-    "Released": "08 Nov 2019",
-    "Runtime": "132 min",
-    "Genre": "Comedy, Drama, Thriller",
-    "Director": "Bong Joon Ho",
-    "Writer": "Bong Joon Ho (story), Bong Joon Ho (screenplay), Jin Won Han (screenplay)",
-    "Actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi",
-    "Plot": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
-    "Language": "Korean, English",
-    "Country": "South Korea",
-    "Awards": "Won 4 Oscars. Another 241 wins & 231 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Released": "10 Jan 2020",
+    "Runtime": "119 min",
+    "Genre": "Drama, War",
+    "Director": "Sam Mendes",
+    "Writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth",
+    "Plot": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "Language": "English, French, German",
+    "Country": "USA, UK, India, Spain, Canada",
+    "Awards": "Won 3 Oscars. Another 108 wins & 158 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.4",
+    "imdbVotes": "215,814",
+    "imdbID": "tt8579674",
+    "Type": "movie",
+    "DVD": "10 Mar 2020",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt3513548": {
+    "Title": "Richard Jewell",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "13 Dec 2019",
+    "Runtime": "131 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Clint Eastwood",
+    "Writer": "Billy Ray, Marie Brenner (article), Kent Alexander (book), Kevin Salwen (book)",
+    "Actors": "Paul Walter Hauser, Sam Rockwell, Brandon Stanley, Ryan Boz",
+    "Plot": "American security guard Richard Jewell saves thousands of lives from an exploding bomb at the 1996 Olympics, but is vilified by journalists and the press who falsely reported that he was a terrorist.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTFlODg1MTEtZTJhOC00OTY1LWE0YzctZjRlODdkYWY5ZDM4XkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.5",
+    "imdbVotes": "17,389",
+    "imdbID": "tt3513548",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt4648786": {
+    "Title": "Harriet",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "01 Nov 2019",
+    "Runtime": "125 min",
+    "Genre": "Action, Biography, Drama, History",
+    "Director": "Kasi Lemmons",
+    "Writer": "Gregory Allen Howard (screenplay by), Kasi Lemmons (screenplay by), Gregory Allen Howard (story by)",
+    "Actors": "Cynthia Erivo, Leslie Odom Jr., Joe Alwyn, Clarke Peters",
+    "Plot": "The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes, whose courage, ingenuity, and tenacity freed hundreds of slaves and changed the course of history.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 18 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.3",
+    "imdbVotes": "10,520",
+    "imdbID": "tt4648786",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7083526": {
+    "Title": "Breakthrough",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "17 Apr 2019",
+    "Runtime": "116 min",
+    "Genre": "Biography, Drama",
+    "Director": "Roxann Dawson",
+    "Writer": "Grant Nieporte (screenplay by), Joyce Smith (based upon the book by)",
+    "Actors": "Marcel Ruiz, Topher Grace, Sarah Constible, Dennis Haysbert",
+    "Plot": "When her 14-year-old son drowns in a lake, a faithful mother prays for him to come back from the brink of death and be healed.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2ODk2ODEzMV5BMl5BanBnXkFtZTgwMzk1OTk4NjM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "61%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.1",
+    "imdbVotes": "6,591",
+    "imdbID": "tt7083526",
+    "Type": "movie",
+    "DVD": "02 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt1979376": {
+    "Title": "Toy Story 4",
+    "Year": "2019",
+    "Rated": "G",
+    "Released": "21 Jun 2019",
+    "Runtime": "100 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Josh Cooley",
+    "Writer": "John Lasseter (original story by), Andrew Stanton (original story by), Josh Cooley (original story by), Valerie LaPointe (original story by), Rashida Jones (original story by), Will McCormack (original story by), Martin Hynes (original story by), Stephany Folsom (original story by), Andrew Stanton (screenplay by), Stephany Folsom (screenplay by), Josh Cooley (additional screenplay material by)",
+    "Actors": "Tom Hanks, Tim Allen, Annie Potts, Tony Hale",
+    "Plot": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 49 wins & 50 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.8",
+    "imdbVotes": "163,044",
+    "imdbID": "tt1979376",
+    "Type": "movie",
+    "DVD": "01 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "Disney/Pixar",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7984734": {
+    "Title": "The Lighthouse",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "01 Nov 2019",
+    "Runtime": "109 min",
+    "Genre": "Drama, Fantasy, Horror, Mystery",
+    "Director": "Robert Eggers",
+    "Writer": "Robert Eggers, Max Eggers",
+    "Actors": "Robert Pattinson, Willem Dafoe, Valeriia Karaman, Logan Hawkes",
+    "Plot": "Two lighthouse keepers try to maintain their sanity whilst living on a remote and mysterious New England island in the 1890s.",
+    "Language": "English",
+    "Country": "Canada, USA",
+    "Awards": "Nominated for 1 Oscar. Another 25 wins & 92 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "76,098",
+    "imdbID": "tt7984734",
+    "Type": "movie",
+    "DVD": "07 Jan 2020",
+    "BoxOffice": "N/A",
+    "Production": "A24",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt2527338": {
+    "Title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "20 Dec 2019",
+    "Runtime": "142 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "J.J. Abrams",
+    "Writer": "Chris Terrio (screenplay by), J.J. Abrams (screenplay by), Derek Connolly (story by), Colin Trevorrow (story by), Chris Terrio (story by), J.J. Abrams (story by), George Lucas (based on characters created by)",
+    "Actors": "Carrie Fisher, Mark Hamill, Adam Driver, Daisy Ridley",
+    "Plot": "The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 6 wins & 33 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.8",
+    "imdbVotes": "262,442",
+    "imdbID": "tt2527338",
+    "Type": "movie",
+    "DVD": "17 Mar 2020",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8404614": {
+    "Title": "The Two Popes",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "20 Dec 2019",
+    "Runtime": "125 min",
+    "Genre": "Biography, Comedy, Drama",
+    "Director": "Fernando Meirelles",
+    "Writer": "Anthony McCarten",
+    "Actors": "Anthony Hopkins, Jonathan Pryce, Juan Minujín, Luis Gnecco",
+    "Plot": "Behind Vatican walls, the conservative Pope Benedict XVI and the liberal future Pope Francis must find common ground to forge a new path for the Catholic Church.",
+    "Language": "English, Spanish, Italian, Latin, Portuguese, French, German",
+    "Country": "UK, Italy",
+    "Awards": "Nominated for 3 Oscars. Another 9 wins & 49 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTc1YmYtMDk0Yy00ZWI4LTgzN2YtYTg2ZDZmOGIwNTA1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.6",
+    "imdbVotes": "73,815",
+    "imdbID": "tt8404614",
+    "Type": "movie",
+    "DVD": "20 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8946378": {
+    "Title": "Knives Out",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "27 Nov 2019",
+    "Runtime": "131 min",
+    "Genre": "Comedy, Crime, Drama, Mystery, Thriller",
+    "Director": "Rian Johnson",
+    "Writer": "Rian Johnson",
+    "Actors": "Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis",
+    "Plot": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+    "Language": "English, Spanish, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 43 wins & 86 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.0",
+    "imdbVotes": "189,130",
+    "imdbID": "tt8946378",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt4154796": {
+    "Title": "Avengers: Endgame",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "26 Apr 2019",
+    "Runtime": "181 min",
+    "Genre": "Action, Adventure, Drama, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora & Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "Language": "English, Japanese, Xhosa, German",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 60 wins & 96 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.4",
+    "imdbVotes": "678,181",
+    "imdbID": "tt4154796",
+    "Type": "movie",
+    "DVD": "30 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "Marvel Studios",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt4520988": {
+    "Title": "Frozen II",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "22 Nov 2019",
+    "Runtime": "103 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
+    "Director": "Chris Buck, Jennifer Lee",
+    "Writer": "Jennifer Lee (screenplay by), Jennifer Lee (story by), Chris Buck (story by), Kristen Anderson-Lopez (story by), Robert Lopez (story by), Marc Smith (story by), Allison Schroeder (additional screenplay material by)",
+    "Actors": "Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff",
+    "Plot": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 6 wins & 68 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.1",
+    "imdbVotes": "76,792",
+    "imdbID": "tt4520988",
+    "Type": "movie",
+    "DVD": "25 Feb 2020",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7653254": {
+    "Title": "Marriage Story",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "06 Dec 2019",
+    "Runtime": "137 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Noah Baumbach",
+    "Writer": "Noah Baumbach",
+    "Actors": "Adam Driver, Scarlett Johansson, Alan Alda, Azhy Robertson",
+    "Plot": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+    "Language": "English, Spanish",
+    "Country": "UK, USA",
+    "Awards": "Won 1 Oscar. Another 120 wins & 246 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "93/100"
+      }
+    ],
+    "Metascore": "93",
+    "imdbRating": "8.0",
+    "imdbVotes": "189,430",
+    "imdbID": "tt7653254",
+    "Type": "movie",
+    "DVD": "06 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9351980": {
+    "Title": "American Factory",
+    "Year": "2019",
+    "Rated": "TV-14",
+    "Released": "21 Aug 2019",
+    "Runtime": "110 min",
+    "Genre": "Documentary",
+    "Director": "Steven Bognar, Julia Reichert",
+    "Writer": "N/A",
+    "Actors": "Junming 'Jimmy' Wang, Robert Allen, Sherrod Brown, Dave Burrows",
+    "Plot": "In post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
+    "Language": "English, Mandarin",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 17 wins & 42 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.4",
+    "imdbVotes": "10,355",
+    "imdbID": "tt9351980",
+    "Type": "movie",
+    "DVD": "21 Aug 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt6105098": {
+    "Title": "The Lion King",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "19 Jul 2019",
+    "Runtime": "118 min",
+    "Genre": "Animation, Adventure, Drama, Family, Musical",
+    "Director": "Jon Favreau",
+    "Writer": "Jeff Nathanson (screenplay by), Irene Mecchi (based on: \"The Lion King\",  screenplay by), Jonathan Roberts (based on: \"The Lion King\",  screenplay by), Linda Woolverton (based on: \"The Lion King\",  screenplay by)",
+    "Actors": "Chiwetel Ejiofor, John Oliver, James Earl Jones, John Kani",
+    "Plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+    "Language": "English, Xhosa, Zulu, French, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 13 wins & 29 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.9",
+    "imdbVotes": "171,376",
+    "imdbID": "tt6105098",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7286456": {
+    "Title": "Joker",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "04 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Todd Phillips",
+    "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)",
+    "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",
+    "Plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "Won 2 Oscars. Another 84 wins & 190 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
@@ -337,21 +885,1071 @@
       },
       {
         "Source": "Rotten Tomatoes",
+        "Value": "68%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "8.6",
+    "imdbVotes": "709,240",
+    "imdbID": "tt7286456",
+    "Type": "movie",
+    "DVD": "17 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt2066051": {
+    "Title": "Rocketman",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "31 May 2019",
+    "Runtime": "121 min",
+    "Genre": "Biography, Drama, Music, Musical",
+    "Director": "Dexter Fletcher",
+    "Writer": "Lee Hall",
+    "Actors": "Taron Egerton, Jamie Bell, Richard Madden, Bryce Dallas Howard",
+    "Plot": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.",
+    "Language": "English",
+    "Country": "UK, USA, Canada",
+    "Awards": "Won 1 Oscar. Another 20 wins & 62 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzNjUxZGQtYjg0OS00MmE0LTgwZDAtMzVmODQ2MGI5MTQ5XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.3",
+    "imdbVotes": "98,969",
+    "imdbID": "tt2066051",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Rocket Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7549996": {
+    "Title": "Judy",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "04 Oct 2019",
+    "Runtime": "118 min",
+    "Genre": "Biography, Drama, Romance",
+    "Director": "Rupert Goold",
+    "Writer": "Tom Edge (screenplay by), Peter Quilter (based on the stageplay \"End of the Rainbow\" by)",
+    "Actors": "Renée Zellweger, Jessie Buckley, Finn Wittrock, Rufus Sewell",
+    "Plot": "Legendary performer Judy Garland (Renée Zellweger) arrives in London in the winter of 1968 to perform a series of sold-out concerts.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Won 1 Oscar. Another 21 wins & 51 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmE0OTE5NWItMGYyZi00MzUxLWFjN2QtYzBkZGRjZGVmMGFmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.9",
+    "imdbVotes": "22,682",
+    "imdbID": "tt7549996",
+    "Type": "movie",
+    "DVD": "10 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "Roadside Attractions/LD Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt2935510": {
+    "Title": "Ad Astra",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "20 Sep 2019",
+    "Runtime": "123 min",
+    "Genre": "Adventure, Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "James Gray",
+    "Writer": "James Gray, Ethan Gross",
+    "Actors": "Brad Pitt, Tommy Lee Jones, Ruth Negga, Donald Sutherland",
+    "Plot": "Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe.",
+    "Language": "English, Norwegian",
+    "Country": "China, USA",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 54 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "6.6",
+    "imdbVotes": "149,683",
+    "imdbID": "tt2935510",
+    "Type": "movie",
+    "DVD": "03 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8991268": {
+    "Title": "Honeyland",
+    "Year": "2019",
+    "Rated": "Unrated",
+    "Released": "26 Jul 2019",
+    "Runtime": "89 min",
+    "Genre": "Documentary, Drama",
+    "Director": "Tamara Kotevska, Ljubomir Stefanov",
+    "Writer": "Tamara Kotevska, Ljubomir Stefanov",
+    "Actors": "Hatidze Muratova, Nazife Muratova, Hussein Sam, Ljutvie Sam",
+    "Plot": "The last female bee-hunter in Europe must save the bees and return the natural balance in Honeyland, when a family of nomadic beekeepers invade her land and threaten her livelihood.",
+    "Language": "Turkish, Macedonian, Serbo-Croatian, Bosnian",
+    "Country": "Republic of North Macedonia",
+    "Awards": "Nominated for 2 Oscars. Another 32 wins & 47 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzYyNjFmOWEtMzQxMi00MmUwLWE4MmQtZWFhNTRkZTI0MmJmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.0",
+    "imdbVotes": "8,044",
+    "imdbID": "tt8991268",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10397932": {
+    "Title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "28 Apr 2019",
+    "Runtime": "39 min",
+    "Genre": "Documentary, Short, Sport",
+    "Director": "Carol Dysinger",
+    "Writer": "N/A",
+    "Actors": "N/A",
+    "Plot": "Learning To Skateboard In A Warzone (If You're A Girl) is the story of young Afghan girls learning to read, write-and skateboard-in Kabul.",
+    "Language": "Dari",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGJjYTZlMWItODVlMi00OTlhLWE2NjgtMmE2NTRhNWNlZTRjXkEyXkFqcGdeQXVyODc5Njc4MTY@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt10397932",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt6394270": {
+    "Title": "Bombshell",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "20 Dec 2019",
+    "Runtime": "109 min",
+    "Genre": "Biography, Drama",
+    "Director": "Jay Roach",
+    "Writer": "Charles Randolph",
+    "Actors": "Charlize Theron, Nicole Kidman, Margot Robbie, John Lithgow",
+    "Plot": "A group of women take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "Won 1 Oscar. Another 21 wins & 51 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.8",
+    "imdbVotes": "35,873",
+    "imdbID": "tt6394270",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9204606": {
+    "Title": "Life Overtakes Me",
+    "Year": "2019",
+    "Rated": "TV-PG",
+    "Released": "14 Jun 2019",
+    "Runtime": "39 min",
+    "Genre": "Documentary, Short",
+    "Director": "John Haptas, Kristine Samuelson",
+    "Writer": "N/A",
+    "Actors": "Henry Ascher, Nadja Hatem, Mikael Billing, Karl Sallin",
+    "Plot": "In the grip of trauma, hundreds of refugee children in Sweden withdraw from life's uncertainties into a coma-like illness called Resignation Syndrome.",
+    "Language": "Swedish, Ukrainian, English",
+    "Country": "Sweden, USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg4OTFjNGUtNGIwYi00NTM0LWIzODEtOTI5ODljOTA5OTE5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "1,341",
+    "imdbID": "tt9204606",
+    "Type": "movie",
+    "DVD": "14 Jun 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9617456": {
+    "Title": "For Sama",
+    "Year": "2019",
+    "Rated": "TV-PG",
+    "Released": "26 Jul 2019",
+    "Runtime": "96 min",
+    "Genre": "Documentary, War",
+    "Director": "Waad Al-Kateab, Edward Watts",
+    "Writer": "N/A",
+    "Actors": "Waad Al-Kateab, Hamza Al-Khateab, Sama Al-Khateab",
+    "Plot": "FOR SAMA is both an intimate and epic journey into the female experience of war.",
+    "Language": "Arabic, English",
+    "Country": "UK, Syria",
+    "Awards": "Nominated for 1 Oscar. Another 59 wins & 39 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE2NWE0OWEtMjk5NS00OWYwLWEwNzQtMGFhZTIzYTgxZjI0XkEyXkFqcGdeQXVyNDY2NDMxNDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
         "Value": "99%"
       },
       {
         "Source": "Metacritic",
-        "Value": "96/100"
+        "Value": "89/100"
       }
     ],
-    "Metascore": "96",
-    "imdbRating": "8.6",
-    "imdbVotes": "304,098",
-    "imdbID": "tt6751668",
+    "Metascore": "89",
+    "imdbRating": "8.5",
+    "imdbVotes": "4,259",
+    "imdbID": "tt9617456",
     "Type": "movie",
-    "DVD": "14 Jan 2020",
+    "DVD": "N/A",
     "BoxOffice": "N/A",
-    "Production": "NEON",
+    "Production": "PBS Distribution",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7178226": {
+    "Title": "The Cave",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "18 Oct 2019",
+    "Runtime": "107 min",
+    "Genre": "Documentary, War",
+    "Director": "Feras Fayyad",
+    "Writer": "Alisar Hasan, Feras Fayyad",
+    "Actors": "Amani Ballour, Salim Namour, Alaa, Samaher",
+    "Plot": "Amidst air strikes and bombings, a group of female doctors in Ghouta, Syria struggle with systemic sexism while trying to care for the injured using limited resources.",
+    "Language": "Arabic, English",
+    "Country": "Denmark, Germany, France, UK, USA, Qatar",
+    "Awards": "Nominated for 1 Oscar. Another 12 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2RiZjcxMmMtZGFhOS00MGU4LTk0YTItZGRmZTc0ZmM2Y2MzXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.4",
+    "imdbVotes": "1,458",
+    "imdbID": "tt7178226",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "National Geographic Documentary Films",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt4777008": {
+    "Title": "Maleficent: Mistress of Evil",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "18 Oct 2019",
+    "Runtime": "119 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Joachim Rønning",
+    "Writer": "Linda Woolverton, Noah Harpster, Micah Fitzerman-Blue, Charles Perrault (based on: characters from \"La Belle Au Bois Dormant\" written by)",
+    "Actors": "Angelina Jolie, Elle Fanning, Harris Dickinson, Michelle Pfeiffer",
+    "Plot": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies and dark new forces at play.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 1 Oscar. Another 1 win & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "40%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.7",
+    "imdbVotes": "57,505",
+    "imdbID": "tt4777008",
+    "Type": "movie",
+    "DVD": "31 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt6016744": {
+    "Title": "The Edge of Democracy",
+    "Year": "2019",
+    "Rated": "TV-14",
+    "Released": "19 Jun 2019",
+    "Runtime": "121 min",
+    "Genre": "Documentary, History",
+    "Director": "Petra Costa",
+    "Writer": "Petra Costa (screenplay), Carol Pires, David Barker, Moara Passoni, Daniela Capelato (script collaboration), Antônia Pellegrino (script collaboration), Virginia Primo (script collaboration)",
+    "Actors": "Dilma Rousseff, Luiz Inácio Lula da Silva, Marisa Letícia Lula da Silva, Sergio Moro",
+    "Plot": "Political documentary and personal memoir collide in this exploration into the complex truth behind the unraveling of two Brazilian presidencies.",
+    "Language": "Portuguese",
+    "Country": "Brazil",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NGVmOWItYWI2NC00ZDcxLTk1NmQtYTE5M2U0MmIyYWM1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.4",
+    "imdbVotes": "5,965",
+    "imdbID": "tt6016744",
+    "Type": "movie",
+    "DVD": "19 Jun 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10182854": {
+    "Title": "Walk Run Cha-Cha",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "25 Apr 2019",
+    "Runtime": "20 min",
+    "Genre": "Documentary, Short",
+    "Director": "Laura Nix",
+    "Writer": "Laura Nix",
+    "Actors": "Chipaul Cao, Millie Cao, Maksym Kapitanchuk, Elena Krifuks",
+    "Plot": "Paul and Millie Cao lost their youth to the aftermath of the Vietnam War. Forty years later, they have become successful professionals in Southern California-and are rediscovering themselves on the dance floor.",
+    "Language": "N/A",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWVlODE2OWQtNTE2MS00ODgwLWEzZTItMzI1Y2FkY2I2NDM3XkEyXkFqcGdeQXVyMTA2MzE1MDE5._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "561",
+    "imdbID": "tt10182854",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9806192": {
+    "Title": "I Lost My Body",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "06 Nov 2019",
+    "Runtime": "81 min",
+    "Genre": "Animation, Drama, Fantasy, Romance",
+    "Director": "Jérémy Clapin",
+    "Writer": "Jérémy Clapin (screenplay), Guillaume Laurant (screenplay), Guillaume Laurant (adaptation), Guillaume Laurant (dialogue), Guillaume Laurant (novel), Jérémy Clapin (adaptation), Jérémy Clapin (dialogue)",
+    "Actors": "Hakim Faris, Victoire Du Bois, Patrick d'Assumçao, Alfonso Arfi",
+    "Plot": "A story of Naoufel, a young man who is in love with Gabrielle. In another part of town, a severed hand escapes from a dissection lab, determined to find its body again.",
+    "Language": "French",
+    "Country": "France",
+    "Awards": "Nominated for 1 Oscar. Another 22 wins & 48 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzRlNmViODgtNjQwZC00ZGE3LWJmMWMtOTcwNzMwYTY5OTcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.6",
+    "imdbVotes": "15,864",
+    "imdbID": "tt9806192",
+    "Type": "movie",
+    "DVD": "29 Nov 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt2386490": {
+    "Title": "How to Train Your Dragon: The Hidden World",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "22 Feb 2019",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure, Family, Fantasy",
+    "Director": "Dean DeBlois",
+    "Writer": "Dean DeBlois, Cressida Cowell (based upon the \"How to Train Your Dragon\" book series by)",
+    "Actors": "Jay Baruchel, America Ferrera, F. Murray Abraham, Cate Blanchett",
+    "Plot": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+    "Language": "English",
+    "Country": "USA, Japan",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 57 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.5",
+    "imdbVotes": "88,326",
+    "imdbID": "tt2386490",
+    "Type": "movie",
+    "DVD": "21 May 2019",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10499942": {
+    "Title": "Memorable",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "11 Jun 2019",
+    "Runtime": "12 min",
+    "Genre": "Animation, Short, Drama, Family",
+    "Director": "Bruno Collet",
+    "Writer": "Bruno Collet",
+    "Actors": "Dominique Reymond, André Wilms",
+    "Plot": "An aging painter and his wife struggle increasingly to cope with his advancing dementia.",
+    "Language": "French",
+    "Country": "France",
+    "Awards": "Nominated for 1 Oscar. Another 1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGMzNTBhYzQtYmQ0OC00ODI2LThiYTItMTE5NzFjOWVhNjY0XkEyXkFqcGdeQXVyMjA0NzcwMjI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "378",
+    "imdbID": "tt10499942",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt6348138": {
+    "Title": "Missing Link",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "12 Apr 2019",
+    "Runtime": "93 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Chris Butler",
+    "Writer": "Chris Butler (screenplay by)",
+    "Actors": "Hugh Jackman, David Walliams, Stephen Fry, Matt Lucas",
+    "Plot": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.",
+    "Language": "English, Spanish, Tibetan",
+    "Country": "Canada, USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWFmNWZmZWYtMWM3OC00YTYyLWIxNDMtOTRjNzhiYWQ0MDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.7",
+    "imdbVotes": "16,679",
+    "imdbID": "tt6348138",
+    "Type": "movie",
+    "DVD": "09 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "Annapurna Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10923134": {
+    "Title": "Daughter",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "20 Oct 2019",
+    "Runtime": "15 min",
+    "Genre": "Animation, Short, Drama, Family, Fantasy",
+    "Director": "Daria Kashcheeva",
+    "Writer": "Daria Kashcheeva",
+    "Actors": "N/A",
+    "Plot": "The bond between a father and a daughter is imperiled by matters that go unspoken and hurts that are slow to heal.",
+    "Language": "English",
+    "Country": "Czech Republic",
+    "Awards": "Nominated for 1 Oscar. Another 4 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTA3YzE5MWItNjE1ZS00MDQwLTk2ZjMtYzUzOGI1MGJjODA5XkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "818",
+    "imdbID": "tt10923134",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt7129636": {
+    "Title": "Hair Love",
+    "Year": "2019",
+    "Rated": "G",
+    "Released": "14 Aug 2019",
+    "Runtime": "7 min",
+    "Genre": "Animation, Short, Comedy, Drama, Family",
+    "Director": "Matthew A. Cherry, Everett Downing Jr., Bruce W. Smith",
+    "Writer": "Matthew A. Cherry",
+    "Actors": "Issa Rae",
+    "Plot": "A father tries to do his daughter's hair for the first time.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE1OWRlNjItN2M1MC00MzAwLTllOWQtZjdkNjY0OTU2YTA2XkEyXkFqcGdeQXVyMjMzMTI2NzU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.4",
+    "imdbVotes": "3,682",
+    "imdbID": "tt7129636",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9536832": {
+    "Title": "Kitbull",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "18 Feb 2019",
+    "Runtime": "9 min",
+    "Genre": "Animation, Short, Drama, Family",
+    "Director": "Rosana Sullivan",
+    "Writer": "Rosana Sullivan",
+    "Actors": "N/A",
+    "Plot": "An unlikely connection sparks between two creatures: a fiercely independent stray kitten and a pit bull. Together, they experience friendship for the first time.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZjZmVlMzUtOGNhMy00NThmLTk4YmQtNzhiYWE1Mzc5OTUyXkEyXkFqcGdeQXVyMzY3MDEzMTA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "3,516",
+    "imdbID": "tt9536832",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10009148": {
+    "Title": "St. Louis Superman",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "20 Feb 2019",
+    "Runtime": "28 min",
+    "Genre": "Documentary, Short, Drama",
+    "Director": "Sami Khan, Smriti Mundhra",
+    "Writer": "N/A",
+    "Actors": "King Bruce Franks III, Bruce Franks Jr.",
+    "Plot": "Bruce Franks Jr. is a 34-year-old battle rapper, Ferguson activist and state representative from St. Louis, Missouri. Known as Superman to his constituents, he is a political figure the ...",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 6 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc4YTQ4M2QtYmI2Yy00MTE1LWJlN2EtNjRmN2RlYzVlZDAyXkEyXkFqcGdeQXVyMTE0MjExNA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "268",
+    "imdbID": "tt10009148",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8163822": {
+    "Title": "The Neighbors' Window",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "26 Apr 2019",
+    "Runtime": "21 min",
+    "Genre": "Short, Drama",
+    "Director": "Marshall Curry",
+    "Writer": "Diane Weipert (short story), Marshall Curry",
+    "Actors": "Maria Dizzia, Greg Keller, Juliana Canfield, Bret Lada",
+    "Plot": "It tells the story of a middle aged woman with small children whose life is shaken up when two free-spirited twenty-somethings move in across the street.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 11 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNjgxOGUtMmEwYi00ZjQxLWI2NGMtNDNmY2NiODk3NmU3XkEyXkFqcGdeQXVyOTgwNzIyOTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "1,737",
+    "imdbID": "tt8163822",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9032798": {
+    "Title": "Sister",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "15 Jun 2018",
+    "Runtime": "8 min",
+    "Genre": "Animation, Short",
+    "Director": "Siqi Song",
+    "Writer": "Siqi Song",
+    "Actors": "N/A",
+    "Plot": "A man thinks back to his childhood memories of growing up with an annoying little sister in China in the 1990s. What would his life have been like if things had gone differently?",
+    "Language": "Chinese",
+    "Country": "China, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRlOTAtZWNjYi00ZWNlLWE1YjUtMzg3OTVkNzIzODRhXkEyXkFqcGdeQXVyODU2NTIyMDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "14",
+    "imdbID": "tt9032798",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8551848": {
+    "Title": "Nefta Football Club",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "11 Mar 2019",
+    "Runtime": "17 min",
+    "Genre": "Short, Comedy, Drama",
+    "Director": "Yves Piat",
+    "Writer": "Yves Piat",
+    "Actors": "Eltayef Dhaoui, Mohamed Ali Ayari, Lyès Salem, Hichem Mesbah",
+    "Plot": "In a Tunisian village, children are playing football on a wasteland. Meanwhile, Abdallah and Mohammed come across a donkey with headphones on his ears and bags full of a white powder on his...",
+    "Language": "Arabic",
+    "Country": "France, Tunisia, Algeria",
+    "Awards": "Nominated for 1 Oscar. Another 23 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzczZWEyNTMtMTQ0NS00MjM3LTg3YTAtNTEyNDk4MjE4NjM3XkEyXkFqcGdeQXVyMzc0Njg0NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "1,367",
+    "imdbID": "tt8551848",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8906678": {
+    "Title": "Brotherhood",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "07 Sep 2018",
+    "Runtime": "N/A",
+    "Genre": "Short, Drama",
+    "Director": "Meryam Joobeur",
+    "Writer": "Meryam Joobeur",
+    "Actors": "Kais Ayari, Mohamed Graïaa, Mouldi Kriden, Jasmin Lazid",
+    "Plot": "N/A",
+    "Language": "Arabic",
+    "Country": "Canada, Tunisia, Qatar, Sweden",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWE3ZDk5ZGQtYWZkYS00ZTMyLTkxMWQtNjYzODgwYmI0MzVkXkEyXkFqcGdeQXVyNzE1OTk5MTE@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt8906678",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt4729430": {
+    "Title": "Klaus",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "15 Nov 2019",
+    "Runtime": "96 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "Sergio Pablos, Carlos Martínez López(co-director)",
+    "Writer": "Sergio Pablos (original story by), Sergio Pablos (screenplay by), Jim Mahoney (screenplay by), Zach Lewis (screenplay by)",
+    "Actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones, Will Sasso",
+    "Plot": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+    "Language": "English, Saami",
+    "Country": "Spain, UK",
+    "Awards": "Nominated for 1 Oscar. Another 8 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.2",
+    "imdbVotes": "60,931",
+    "imdbID": "tt4729430",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt9464764": {
+    "Title": "In the Absence",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "09 Nov 2018",
+    "Runtime": "28 min",
+    "Genre": "Documentary, Short",
+    "Director": "Seung-jun Yi",
+    "Writer": "N/A",
+    "Actors": "N/A",
+    "Plot": "N/A",
+    "Language": "Korean",
+    "Country": "N/A",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODJhZTg2Y2YtYmZhMy00OWE0LWFlYTctMWI2NmQzNTFlOWI4XkEyXkFqcGdeQXVyMjY2NjYwOTI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "15",
+    "imdbID": "tt9464764",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8649186": {
+    "Title": "Corpus Christi",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "11 Oct 2019",
+    "Runtime": "115 min",
+    "Genre": "Drama",
+    "Director": "Jan Komasa",
+    "Writer": "Mateusz Pacewicz",
+    "Actors": "Bartosz Bielenia, Aleksandra Konieczna, Eliza Rycembel, Tomasz Zietek",
+    "Plot": "Daniel experiences a spiritual transformation in a detention center. Although his criminal record prevents him from applying to the seminary, he has no intention of giving up his dream and decides to minister a small-town parish.",
+    "Language": "Polish",
+    "Country": "Poland",
+    "Awards": "Nominated for 1 Oscar. Another 34 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTBlYzYwODQtNTE3My00ZDMwLWE1N2MtM2FjNWJiNDZkYTlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.0",
+    "imdbVotes": "1,485",
+    "imdbID": "tt8649186",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt10199590": {
+    "Title": "Les Misérables",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "20 Nov 2019",
+    "Runtime": "104 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Ladj Ly",
+    "Writer": "Ladj Ly (screenplay), Giordano Gederlini (screenplay), Alexis Manenti (screenplay)",
+    "Actors": "Damien Bonnard, Alexis Manenti, Djebril Zonga, Issa Perica",
+    "Plot": "A cop from the provinces moves to Paris to join the Anti-Crime Brigade of Montfermeil, discovering an underworld where the tensions between the different groups mark the rhythm.",
+    "Language": "French, Bambara",
+    "Country": "France",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 46 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTZkYTBkY2MtMzRmNS00NjM3LWFiMzItZmJjNzNhMjgyYzczXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.7",
+    "imdbVotes": "4,880",
+    "imdbID": "tt10199590",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt8767544": {
+    "Title": "A Sister",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "01 Oct 2018",
+    "Runtime": "17 min",
+    "Genre": "Short, Drama, Thriller",
+    "Director": "Delphine Girard",
+    "Writer": "Delphine Girard",
+    "Actors": "Veerle Baetens, Selma Alaoui, Guillaume Duhesme",
+    "Plot": "A night. A car. Alie is in danger. To get by she must make the most important phone call of her life.",
+    "Language": "French",
+    "Country": "Belgium",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNiM2RjOWMtYWZiZi00MmRhLWJjYzEtYmQwN2Q2NzBhNGJjXkEyXkFqcGdeQXVyOTYyNDcxODE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "1,126",
+    "imdbID": "tt8767544",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tt11421246": {
+    "Title": "Saria",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "20 Sep 2019",
+    "Runtime": "22 min",
+    "Genre": "Short, Drama",
+    "Director": "Bryan Buckley",
+    "Writer": "Bryan Buckley",
+    "Actors": "Estefanía Tellez, Gabriela Ramírez, Verónica Zúñiga, Leticia Zúñiga",
+    "Plot": "SARIA explores the unimaginable hardships faced by young female orphans at the Virgen de La Asuncion Safe Home in Guatemala, leading up to the tragic fire which claimed 41 of their lives in...",
+    "Language": "Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZTQwZjQtZmQ0NC00MDAzLWI0MzgtZDJjOTI3MDc5NzI3XkEyXkFqcGdeQXVyMTkzNjQ1MDA@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "750",
+    "imdbID": "tt11421246",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
   }
