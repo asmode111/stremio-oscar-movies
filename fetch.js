@@ -31,7 +31,7 @@ function createFile(jsonData) {
 
 let requestUrls = [];
 imdbIds.forEach(function (imdbId) {
-  const omdbapiEndpoint = process.env.API_URL + "?apikey=" + process.env.API_KEY + "&i=";
+  const omdbapiEndpoint = "http://www.omdbapi.com/?apikey=" + process.env.API_KEY + "&i=";
   requestUrls.push(omdbapiEndpoint + imdbId)
 });
 
