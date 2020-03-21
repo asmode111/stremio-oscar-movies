@@ -13,6 +13,7 @@ The content will be updated after the each Oscar night.
 * ```npm start -- --launch``` to see your addon on Stremio stage environment.
 
 For more information about Stremio addons development, please visit the pages below.
+* https://stremio.github.io/stremio-addon-guide
 * https://github.com/Stremio/stremio-addon-sdk
 * https://github.com/Stremio/addon-helloworld  
  
