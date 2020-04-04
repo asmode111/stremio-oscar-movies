@@ -1,4 +1,6 @@
-const { addonBuilder } = require("stremio-addon-sdk");
+#!/usr/bin/env node
+
+const { addonBuilder, serveHTTP, publishToCentral } = require('stremio-addon-sdk')
 const fs = require('fs');
 
 const manifest = {
@@ -73,4 +75,6 @@ builder.defineCatalogHandler(function (args, cb) {
     return Promise.resolve({metas: metas})
 })
 
-module.exports = builder.getInterface()
+// module.exports = builder.getInterface()
+serveHTTP(builder.getInterface(), { port: 7000 })
+publishToCentral('https://my-addon.com/manifest.json')
