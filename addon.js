@@ -77,4 +77,4 @@ builder.defineCatalogHandler(function (args, cb) {
 
 // module.exports = builder.getInterface()
 serveHTTP(builder.getInterface(), { port: 7000 })
-publishToCentral('https://my-addon.com/manifest.json')
+publishToCentral('https://onurdegerli-stremio-oscar-movies.glitch.me/manifest.json')
