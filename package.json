@@ -9,7 +9,7 @@
   "author": "Onur DEGERLI",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "stremio-addon-sdk": "^1.6.1"
